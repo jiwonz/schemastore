@@ -7107,7 +7107,7 @@
       "url": "https://waku.ngjx.org/static/schema.json"
     },
     {
-      "name": "pesde.toml",
+      "name": "pesde manifest",
       "description": "Manifest for pesde",
       "fileMatch": ["pesde.toml"],
       "url": "https://raw.githubusercontent.com/jiwonz/pesde-schema/refs/heads/0.5/schema/generated/pesde.json"
